@@ -4,6 +4,32 @@ app = Flask(__name__)
 
 app.config.from_object('config')
 
-@app.route("/")
-def hello_world():
-    return render_template("hello.html", name=__name__)
+
+centroid = []
+f_old = 0
+f_new = 0
+
+
+def init_dataset(some_dataset):
+    return 0
+
+
+def randomly_label_dataset():
+    return 0
+
+
+def init_centroid():
+    return 0
+
+
+def distance_from_centroid():
+    return 0
+
+
+def update_new_centroid():
+    return 0
+
+
+def delta_f():
+    return 0
+
