@@ -18,7 +18,7 @@ def dashboard():
 
 @app.route('/input_teks')
 def input_teks_view():
-    header = Markup("<script>activeSidebar('#menu_input_teks');</script><h1>Input Teks</h1>")
+    header = Markup("<script>activeSidebar('#menu_input_teks');</script><h1>Input Berita</h1>")
     return render_template('pages/input_teks.html', **locals())
 
 
@@ -38,6 +38,7 @@ def lakukan_clustering_view():
 def lihat_hasil_clustering_view():
     header = Markup("<script>activeSidebar('#menu_lihat_hasil_clustering');</script><h1>Lihat Hasil Clustering</h1>")
     return render_template('pages/lihat_hasil_clustering.html', **locals())
+
 
 
 
