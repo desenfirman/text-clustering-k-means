@@ -1,0 +1,26 @@
+Proses "menambang" (mining) mata uang virtual membutuhkan daya komputasi yang besar. Karena itulah belakangan muncul tren di mana hacker membajak komputer korban untuk mining, dengan malware atau script yang diselipkan di situs web.
+
+Semakin banyak komputer yang dibajak, semakin besar pula sumber daya kolektif untuk proses tersebut.
+
+Belakangan, kejadian semacam ini melebar pula ke ranah gadget mobile. Firma sekuriti mobile Malwarebytes mengungkapkan adanya serangan skala besar yang secara khusus menyasar smartphone Android.
+
+Para hacker yang terlibat menggunakan metode iklan redirect untuk mengalihkan peramban mobile di perangkat-perangkat mobile ke beberapa situs berisi penambang mata uang virtual Monero (XMR). Angka CPU utilization yang menandakan pemakaian prosesor oleh proses mining pun melonjak.
+
+Anehnya, situs penambang mata uang virtual itu berterus terang soal memanfaatkan perangkat Android pengunjung alias korban redirect untuk melakukan mining. Situs lalu meminta korban memasukkan captcha untuk membuktikan bahwa si korban bukan "bot".
+
+Usai memasukkan captcha, korban akan kembali dialihkan ke laman beranda Google. Selagi belum memasukkan captcha ini, situs akan terus menerus memakai sumber daya perangkat korban secara maksimal untuk menambang uang virtual (cryptomining).
+
+Tampilan situs berisi cryptominer (kiri) yang menambang uang virtual di perangkat Android korban redirect (gambar kiri). Di gambar kanan tampak grafik pemakaian prosesor gadget yang tiba-tiba melonjak karena perangkat dipakai menambang uang virtual selagi membuka situs tersebut.
+Tampilan situs berisi cryptominer (kiri) yang menambang uang virtual di perangkat Android korban redirect (gambar kiri). Di gambar kanan tampak grafik pemakaian prosesor gadget yang tiba-tiba melonjak karena perangkat dipakai menambang uang virtual selagi membuka situs tersebut.(Malwarebytes)
+Metode yang digunakan para hacker untuk melakukan redirect tidak diketahui persis, namun diduga melibatkan aplikasi terinfeksi malware yang terunduh ke perangkat korban, untuk kemudian menampilkan iklan menuju situs mining.
+Dalam laporannya, Malwarebytes menerangkan rata-rata korban yang dialihkan ini menghabiskan empat menit di situs-situs mining ini. Situs awalnya dimuat sebagai pop-under supaya korban tak langsung menyadari apa yang sedang terjadi.
+
+Meski tiap perangkat mobile hanya disedot sumberdayanya untuk mining selama hitungan menit, jumlah ponsel yang menjadi korban terbilang banyak. Jumlah trafik ke situs-situs mining tersebut diperkirakan mencapai kisaran 800.000 per hari. Dengan demikian, diperkirakan jumlah korban sudah mencapai jutaan.
+
+"Perangkat mobile mungkin tidak sekuat komputer desktop, namun jumlahnya lebih banyak, ujar analis malware di Malwarebytes, Jerome Segura, sebagaimana dirangkum KompasTekno dari ZDNet, Kamis (15/2/2018).
+
+Serangan "cryptomining"skala besar macam ini bisa menghasilkan mata uang virtual bernilai besar bagi kelompok hacker pelakunya. Malware miner Smominru yang menyasar sistem operasi Windows dengan exploit EternalBlue, misalnya, diestimasi telah berhasil menambang mata uang virtual senilai 3,6 juta dollar AS.
+
+Operasi hacker yang menyasar perangkat Android lewat redirect ke situs-situs mining diperkirakan telah berjalan sejak November tahun lalu, tapi baru mulai diketahui secara meluas pada Januari tahun ini.
+
+Agar tak ikut menjadi korban, Malwarebytes menyarankan pengguna perangkat mobile agar memasang ad-blocker serta aplikasi sekuriti lain.

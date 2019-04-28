@@ -1,0 +1,16 @@
+Pembaharuan Keamanan Buat Baterai Google Pixel 2 'Kepanasan'
+
+Ponsel pintar besutan Google dikabarkan memiliki masalah terkait baterai. Permasalahan ini dikeluhkan oleh para pengguna Pixel 2 dan Pixel 2 XL dalam beberapa forum komunitas online.
+
+Para pengguna menyalahkan masalah baterai tersebut berasal dari security patch yang dikirimkan Google pada awal Februari lalu. Keluhan yang dilaporkan para pengguna memang beragam, namun sebagian besar merasakan ponsel mereka mulai 'menghangat' bahkan dalam keadaan mode standby.
+
+Sebagian pengguna pun merasakan ponsel yang cepat panas hanya dengan melakukan tugas ringan seperti berkirim SMS dan cek email. Laporan dari 9to5Google memaparkan update terbaru yang dikirimkan Google menyebabkan 'jebolnya' ketangguhan baterai Pixel.
+
+"Dalam kasus saya, saya menyadari baterai Pixel 2 XL tersedot sekitar 30 persen pada sore hari dengan penggunaan yang biasanya menyisakan 50 persen baterai atau lebih," demikian laporan 9to5Google.
+
+
+Masalah baterai yang menghangat parahnya juga terjadi pada ponsel yang sedang dalam safe mode. Beberapa orang menyarankan untuk membersihkan semua data dalam perangkat namun cara ini belum terbukti berhasil.
+
+Sementara itu, Google sendiri belum memberikan komentar mengenai isu ini meski keluhan ditulis pengguna di Reddit, Twitter dan forum komunitas Google sendiri. Spesialis komunitas Google mengatakan bahwa masalah baterai yang menghangat ini tak ada hubungannya dengan masalah peranti lunak sama sekali.
+
+"Karena masalah ini tetap ada bahkan ketika reset data pabrik, hal itu mengindikasikan masalah baterai atau peranti keras. Tolong hubungi Pixel Support dan bekerjasama secara langsung dengan mereka," demikian tulis spesialis komunitas Google seperti dilaporkan PCMag, Senin (19/2).

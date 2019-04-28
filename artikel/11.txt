@@ -1,0 +1,30 @@
+Penipuan Melalui Kode Akses Gojek Masih Marak
+
+Godaan undian berhadiah dengan nominal rupiah yang besar atau iming-iming lain seperti mobil dan motor kerap membuat masyarakat terbuai. Mereka tak menyadari bahaya mengintai di balik godaan undian palsu yang sering disebar melalui pesan singkat.
+
+Penipuan yang mengatasnamakan perusahaan besar ini pernah menimpa Telkomsel Poin pada 2013. Para pemenang dikelabui dengan harus mengirimkan sejumlah uang ke rekening tertentu dengan dalih pajak hadiah.
+
+Akhir-akhir ini pun kasus penipuan serupa mulai marak terjadi. Namun, kali ini para penipu mengatasnamakan Gojek.
+
+
+Pakar keamanan siber sekaligus pendiri Vaksin.com, Alfons Tanujaya mengungkapkan walaupun rekayasa sosial modus menang undian atau hadiah yang digunakan mirip, namun teknis penipuan kali ini sedikit berbeda.
+
+Pasalnya, sekarang tekniknya tidak menggunakan situs palsu yang direkayasa dengan rapih untuk mengelabui korbannya, tetapi memanfaatkan sistem log in otomatis yang digunakan oleh Gojek.
+
+Aplikasi transportasi daring ini kurang menerapkan prinsip keamanan yang baik mengingat hanya berbekal nomor ponsel.
+
+"Korban penipuan sistem Gojek secara otomatis mengirimkan password log in ke SMS nomor ponsel yang bersangkutan dan membolehkan log in dari ponsel baru. Jika penipu berhasil mendapatkan kode yang dikirimkan melalui SMS tersebut, maka dengan leluasa ia akan menguasai akun sekalipun ia menggunakan ponsel yang berbeda dari ponsel pemilik akun," ujarnya dalam keterangan resmi yang diterima CNNIndonesia.com, Senin (19/2).
+
+Alfons menjelaskan dari sisi pengguna memang harus berhati-hati dan tidak mudah percaya pada telepon yang tidak dikenal. Selain itu, apabila menerima SMS yang tidak dimengerti isinya sebaiknya ditanyakan kepada pihaknya yang mengerti.
+
+"Pada prinsipnya tidak boleh memberikan kode akses atau apapun yang diterima dari SMS, email atau aplikasi lainnya karena sifatnya memang rahasia dan dapat digunakan untuk menguasai akun," tambahnya.
+
+Namun hal ini juga perlu menjadi perhatian penyedia layanan seperti Gojek dan aplikasi lainnya. Pasalnya, harus disadari bahwa tidak semua pengguna layanan Gojek mengecap pendidikan tinggi, melek sekuriti dan mengerti bahasa Inggris.
+
+Menurut pengetesan yang dilakukan oleh Lab Vaksincom, teknik penipuan yang dilakukan oleh pencuri akun Gojek ini tidak terlalu rumit. Alfons menjelaskan ada faktor kelemahan dari sistem log in Gojek yang memungkinkan ponsel penipu mengecoh server Gojek sehingga otomatis mengirimkan password log in ke nomor ponsel pemilik akun.
+
+Antisipasi Penipuan
+
+Alfons melihat antisipasi paling tepat dilakukan dengan edukasi terkait rahasia kode password yang dikirimkan melalui SMS. Selain itu, para penyedia aplikasi pun harus membuat pengamanan login yang baik.
+
+"Sekuriti yang baik memang berbanding terbalik dengan kenyamanan." jelasnya.

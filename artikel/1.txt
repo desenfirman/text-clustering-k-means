@@ -1,0 +1,47 @@
+Monika — Startup dari Semarang yang Bisa Bantu Mengelola Proposal secara Online
+
+Founder: Aditya Dwi Putra
+Industri: layanan SaaS
+Status pendanaan: bootstrapping
+
+    Pengguna Monika bisa memanfaatkan layanan SaaS tersebut guna membuat proposal bisnis untuk dikirim ke para klien.
+    Selain layanan pembuatan proposal secara online, para pengguna juga bisa melacak apakah proposal yang dikirim ke klien telah mendapat respons.
+    Selain menyediakan layanan lewat situs web, Aditya Dwi Putra selaku founder Monika juga berniat memboyong layanannya tersebut ke platform percakapan dengan menyertakan chatbot.
+
+
+Aditya Dwi Putra merupakan sosok yang sudah cukup lama berkiprah dalam dunia startup teknologi. Pada tahun 2012 ia mendirikan sebuah startup bernama Karamel yang bisa menghadirkan iklan di halaman verifikasi captcha. Sekitar tahun 2014, ia pun mendirikan startup baru Weddinq yang bergerak di bisnis marketplace vendor pernikahan.
+
+Dari pengalaman tersebut, ia mengetahui bahwa proses pembuatan proposal untuk diajukan kepada calon klien membutuhkan waktu yang tidak sebentar. Setelah proposal dikirimkan kepada klien pun, seorang pengusaha masih harus berkali-kali melakukan follow up.
+
+Masalah ini menjadi inspirasi bagi Aditya untuk mendirikan startup baru yang bernama Monika. “Sejak satu tahun terakhir, saya sudah fokus melakukan validasi pada masalah yang akan diselesaikan oleh Monika,” ujar Aditya kepada Tech in Asia Indonesia.
+
+    Melihat peluang yang ternyata lebih besar dari yang saya bayangkan, saya pun memutuskan untuk keluar dari Weddinq.
+
+Membantu pembuatan dan pelacakan proposal
+
+Monika merupakan layanan software as a service (SaaS) yang bisa membantu kamu membuat proposal dengan desain menarik dan dalam waktu cepat. Monika bisa membantu kamu melacak status dari setiap proposal yang kamu buat, apakah sudah mendapat respons dari calon klien atau belum.
+
+Untuk menggunakannya, kamu hanya perlu mengakses situs Monika lewat desktop atau smartphone, lalu memasukkan informasi yang ditampilkan dalam proposal. Setelah itu, kamu bisa mengunduh file PDF dari proposal tersebut, atau mengirimkan tautan khusus kepada klien agar mereka bisa langsung melihat proposal secara online.
+
+“Monika ini masuk ke dalam kategori software yang bisa membantu penjualan (sales enabler),” tutur Aditya. “Beberapa startup yang menjadi inspirasi saya adalah Invoicely dan AND.CO yang baru saja diakuisisi Fiverr.”
+
+    Aditya mengklaim telah mempunyai sekitar 700 pengguna umum dan 2 pengguna dari kalangan perusahaan.
+
+Monika pada saat ini masih dalam tahap beta. Kamu sudah bisa mendaftar sebagai tester dan memanfaatkan beberapa fitur di dalamnya.
+
+Untuk menikmati seluruh fitur yang dijanjikan, kamu masih harus menunggu sampai sekitar Maret 2018. Meski begitu, Aditya mengklaim telah mempunyai sekitar 700 pengguna umum dan 2 pengguna dari kalangan perusahaan yang kini aktif menggunakan layanan Monika.
+
+Monika telah mempunyai tim yang berjumlah 6 orang, dengan 3 di antaranya merupakan developer. Mereka mempunyai kantor yang berada di Semarang dan masih mengandalkan dana pribadi para founder untuk beroperasi (bootstrapping).
+Berencana hadirkan chatbot di LINE dan Facebook Messenger
+
+
+Di tahun 2018 ini, Aditya berniat menggaet sebanyak mungkin pengguna. Ia juga mencari peluang kolaborasi dengan perusahaan dan pekerja di bidang industri kreatif seperti developer web, arsitek, event organizer, dan creative agency.
+
+Mereka pun tengah mempersiapkan chatbot di LINE dan Facebook Messenger, demi memudahkan pengguna untuk mencari dan mengirimkan proposal yang telah dibuat sebelumnya pada platform Monika.
+
+Ketika ditanya tentang pelajaran yang ia ambil dari menjalankan dua startup sebelumnya, Aditya hanya menyebutkan satu hal, “Seorang founder harus menentukan apakah dirinya memang orang yang sesuai untuk menjalankan bisnis tersebut.”
+
+Tanyakan hal ini kepada diri kamu:
+
+    Apakah kamu mengenal pasar yang ingin kamu masuki? Apa kamu tahu yang sedang kamu lakukan?
+    Apakah kamu punya pengalaman dengan aktivitas yang coba kamu selesaikan masalahnya ini? Atau sudah berapa lama kamu mempelajarinya?

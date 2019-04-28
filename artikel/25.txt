@@ -1,0 +1,51 @@
+Inggris wanti-wanti pengguna peranti antivirus Kaspersky buatan Rusia
+
+Inggris telah merilis peringatan resmi kepada semua badan pemerintah yang menggunakan peranti lunak antivirus buatan Rusia, Kaspersky Labs.
+
+Pusat Keamanan Siber Nasional (NCSC) bakal menyusun sebuah panduan bagi segenap badan pemerintah Inggris untuk tidak memakai peranti tersebut, khususnya yang berkaitan dengan keamanan nasional.
+
+Pasalnya, menurut NCSC, peranti tersebut dapat dimanfaatkan pemerintah Rusia untuk melakoni aksi mata-mata.
+
+Serangan ransomware global timbulkan kekacauan
+Dua agen rahasia Rusia dikenai dakwaan terkait peretasan Yahoo
+Rusia 'meretas' 21 negara bagian AS saat pilpres 2016
+Agar bisa mendeteksi virus, pengguna peranti antivirus seperti Kaspersky Labs harus mengijinkan peranti tersebut mengakses seluruh dokumen dan jaringan di komputer. Pengguna juga menerima pemutakhiran versi peranti secara berkala. Dalam proses itu, peranti berkomunikasi dengan kantor pembuatnya dan berbagi data mengenai beragam temuan.
+
+Pemerintah Inggris menengarai bahwa dengan cara tersebut pemerintah Rusia dapat memanfaatkan data-data untuk kepentingan mereka.
+
+Sejumlah pejabat NCSC menegaskan bahwa peringatan untuk tidak menggunakan peranti Kaspersky Lab didasarkan pada hasil analisa risiko, alih-alih bukti konkret bahwa pemerintah Rusia memang melakoni aksi spionase lewat peranti itu.
+
+"Karena kami telah meninjau bahwa Rusia melakukan serangan siber terhadap Inggris, kami meyakini pemerintah Inggris dan sistem nasional yang penting semakin berisiko (terpapar serangan)," kata Ian Levy, direktur teknis NCSC.
+
+NCSC sendiri telah berkomunikasi dengan Kaspersky Labs. Hasilnya, NCSC akan menelusuri beragam cara agar keamanan produk-produk peranti Kaspersky dapat diverifikasi.
+
+
+'Serangan Rusia'
+Peringatan terkait peranti Kaspersky mengemuka setelah Perdana Menteri Inggris, Theresa May, mengatakan pemerintah Rusia berupaya melawan kepentingan nasional Inggris di ranah siber.
+
+Ciaran Martin, direktur eksekutif NCSC menguatkan pernyataan itu dengan mengamini bahwa Rusia telah menargetkan infrastruktur Inggris, termasuk pembangkit listrik dan telekomunikasi.
+
+Trump: Putin 'merasa terhina' terkait campur tangan Rusia di Pilpres AS
+Siapa saja yang menjadi korban serangan WannaCry?
+Serangan virus Wannacry ‘diduga terkait Korea Utara’
+Meski demikian, NCSC menegaskan peringatan untuk tidak menggunakan peranti Kaspersky bukan ditujukan kepada khalayak umum dan perusahaan-perusahaan.
+
+"Selain sistem yang jumlahnya relatif kecil ini, kami tidak melihat kondisi yang memaksa saat ini untuk meluaskan peringatan kepada sektor publik, perusahaan umum, atau individu," kata Levy.
+
+"Apapun yang Anda lakukan, jangan panik. Kami tidak ingin masyarakat melakukan hal-hal, seperti memusnahkan peranti Kaspersky secara besar-besaran karena itu tidak berguna," tambahnya.
+
+Peranti antivirus Kaspersky Labs umum digunakan pemakai komputer di dunia, baik individu maupun perusahaan. Secara keseluruhan, sedikitnya 400 juta orang menggunakan produk Kaspersky.
+
+Eugene Kaspersky
+'Tidak ada bukti'
+Kaspersky selama beberapa bulan terakhir menghadapi serangkaian tuduhan yang muncul di media Amerika Serikat.
+
+Salah satunya, Kaspersky Labs dituduh mengunggah dokumen rahasia AS dari sebuah komputer rumahan di AS. Akan tetapi, Kaspersky membantah tuduhan tersebut.
+
+"Kami tidak melakukan kesalahan apapun. Kami tidak akan pernah melakukan hal semacam itu. Tindakan tersebut jelas tidak mungkin," kata Eugene Kaspersky, direktur eksekutif sekaligus salah satu pendiri Kaspersky Labs.
+
+Dia membantah tudingan bahwa pemerintah Rusia bisa memanfaatkan perusahaannya untuk aksi mata-mata.
+
+"Tidak benar pemerintah Rusia punya akses terhadap data. Tidak ada faktanya," tegasnya.
+
+Kalaupun pemerintah Rusia meminta perusahaannya untuk menyerahkan data, Eugene Kaspersky berjanji akan memindahkan perusahaannya dari Rusia.
