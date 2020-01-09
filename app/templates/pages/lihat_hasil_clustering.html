@@ -1,1 +1,70 @@
+{% extends "default.html" %}
+{% block title %}Lihat Hasil Clustering{% endblock %}
 {{ header }}
+{% block content %}
+<h1>
+    Lihat Hasil Clustering
+</h1>
+<br>
+
+{%-  if result != None -%}
+
+
+{%- if result['graph'] != None -%}
+<h3>Avg Silhouette: {{ result['avg_sil'] }}</h3>
+<h3>Jumlah Iterasi: {{ result['iterasi'] }}</h3>
+<h3>Task performed on: {{ result['performed_at'] }}</h3>
+
+<h3>Silhouette Graph</h3>
+<img src="data:image/png;base64, {{ result['graph'] }}" alt="">
+<h3>Cluster list</h3>
+{% endif %}
+{% for i in range(result['k']) %}
+<section>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <td scope="col">Cluster {{ (i+1) }}</td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for title in result['cluster_result_title'][i] %}
+            <tr>
+                <td>{{ title }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+</section>
+{% endfor %}
+{% endif %}
+
+{%- if file_list != None -%}
+<table class="table table_responsive">
+    <thead>
+        <tr>
+            <td>File name</td>
+            <td>Action</td>
+        </tr>
+    </thead>
+    <tbody>
+
+        {% for file in file_list %}
+        <tr>
+            <td>{{ file }}</td>
+            <td><a href="/lihat_hasil_clustering/cluster/{{file}}" class="btn btn-primary">View Result</a></td>
+        </tr>
+        {% endfor %}
+
+    </tbody>
+</table>
+{% endif %}
+
+
+
+{% endblock %}
+
+{% block script %}
+{{ script }}
+{% endblock %}

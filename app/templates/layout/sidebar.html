@@ -2,7 +2,7 @@
     <div class="sidebar-sticky">
         <ul class="nav flex-column">
             <li class="nav-item">
-                <a id="menu_dashboard" class="nav-link active" onclick="loadPage('dashboard', '#wrap');">
+                <a id="menu_dashboard" class="nav-link active" href="/">
                   <span data-feather="home"></span>
                   Dashboard <span class="sr-only">(current)</span>
                 </a>
@@ -10,17 +10,20 @@
             <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
               <span>Indexing</span>
               <a class="d-flex align-items-center text-muted" >
-                <span data-feather="plus-circle"></span>
               </a>
             </h6>
             <li class="nav-item">
-                <a id="menu_input_teks" class="nav-link" onclick="loadPage('input_teks', '#wrap');">
-                  <span data-feather="file"></span>
+                <a id="menu_input_berita" class="nav-link" href="/input_berita">
                   Input Berita
                 </a>
             </li>
             <li class="nav-item">
-                <a id="menu_lihat_data_index" class="nav-link" onclick="loadPage('lihat_data_index', '#wrap');">
+              <a id="menu_build_index_data" class="nav-link" href="/build_index_data">
+                Build Index Data
+              </a>
+            </li>
+            <li class="nav-item">
+                <a id="menu_lihat_data_index" class="nav-link" href="/lihat_data_index">
                   <span data-feather="shopping-cart"></span>
                   Lihat Data Index
                 </a>
@@ -35,13 +38,13 @@
         </h6>
         <ul class="nav flex-column mb-2">
             <li class="nav-item">
-                <a id="menu_lakukan_clustering" class="nav-link" onclick="loadPage('lakukan_clustering', '#wrap');">
+                <a id="menu_lakukan_clustering" class="nav-link" href='/lakukan_clustering'>
                   <span data-feather="file-text"></span>
                   Lakukan Training
                 </a>
             </li>
             <li class="nav-item">
-                <a id="menu_lihat_hasil_clustering" class="nav-link" onclick="loadPage('lihat_hasil_clustering', '#wrap');">
+                <a id="menu_lihat_hasil_clustering" class="nav-link" href="/lihat_hasil_clustering">
                   <span data-feather="file-text"></span>
                   Lihat Hasil Clustering
                 </a>

@@ -1,1 +1,38 @@
+{% extends "default.html" %}
+{% block title %}Lakukan Clustering{% endblock %}
 {{ header }}
+{% block content %}
+    <h1>
+        Lakukan Clustering
+    </h1>
+    <br>
+    <form action="/lakukan_clustering", method="POST">
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Nilai K (Jumlah Cluster)</span>
+            </div>
+            <input onkeypress="validate(event)" required name="k" type="number" class="form-control" placeholder="Masukkan nilai K" aria-label="nilai K" aria-describedby="basic-addon1" required>
+        </div>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Jumlah Iterasi K-Means</span>
+            </div>
+            <input onkeypress="validate(event)" required name="iterasi" type="number" class="form-control" placeholder="Masukkan jumlah iterasi" aria-label="jumlah iterasi" aria-describedby="basic-addon1" required>
+        </div>
+        <input type="submit" class="btn btn-primary" value="Lakukan clustering">
+    </form>
+
+    <br>
+    {%- if message != None -%}
+        <div class="alert alert-info">
+            {{ message }}
+        </div>
+    {% endif %}
+
+
+
+{% endblock %}
+
+{% block script %}
+    {{ script }}
+{% endblock %}

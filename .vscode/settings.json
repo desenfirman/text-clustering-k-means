@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/desenfirman/.conda/envs/text-clustering-k-means/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": false
+}

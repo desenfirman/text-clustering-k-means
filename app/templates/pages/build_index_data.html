@@ -1,0 +1,50 @@
+{% extends "default.html" %}
+{% block title %}Build Index Data{% endblock %}
+{% block content %}
+<h1>
+  Build Index Data
+</h1>
+<div class="alert alert-info">
+  There are {{file_list_count}} document(s) that will be indexed.
+  {%- if file_list_count < 1 -%}
+  <span> </span>Please input a document first in 'Input berita' menu.
+  {% else %}
+  Click "start indexing" to perform indexing process to all submitted document.
+
+  {% endif %}
+</div>
+
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne"
+          aria-expanded="false" aria-controls="collapseOne">
+          View Document List
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <ul>
+          {%- if file_list != None -%}
+          {% for file in file_list_name %}
+            <li>{{ file }}</li>
+          {% endfor %}
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br><br>
+
+<form action="/build_index_data" method="post">
+  <input name="submit" type="submit" class="btn btn-primary" placeholder="Start Indexing" value="Start Indexing">
+</form>
+{% endblock %}
+{% block script %}
+{{ script }}
+{% endblock %}

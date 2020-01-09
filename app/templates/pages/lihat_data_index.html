@@ -1,1 +1,25 @@
+{% extends "default.html" %}
+{% block title %}Lihat Data Index{% endblock %}
 {{ header }}
+{% block content %}
+    <h1>
+        Lihat Data Index
+    </h1>
+    <br>
+    {%- if message == None -%}
+        <div class="alert alert-info">{{ message }}</div>
+    {% endif %}
+    
+    {%- if tables != None -%}
+        {% for table in tables %}
+            {{ table|safe }}
+        {% endfor %}
+    {% endif %}
+
+
+{% endblock %} 
+{{ header }}
+{{ a }}
+{% block script %}
+    {{ script }}
+{% endblock %}

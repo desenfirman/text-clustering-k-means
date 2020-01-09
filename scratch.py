@@ -63,17 +63,17 @@ def tfidfWeighting(index):
                 idf = np.log10(N / df)
                 tf_index[doc_index][term] = (wtf * idf)
 
-    # normalize vector space
-    for doc_index in tf_index:
-        d_resultant = 0
-        for term in tf_index[doc_index].keys():
-            d_resultant += np.square(tf_index[doc_index][term])
-        d_resultant = np.sqrt(d_resultant)
-        sums = 0
-        for term in tf_index[doc_index].keys():
-            tf_index[doc_index][term] = tf_index[doc_index][term] / d_resultant
-            sums += tf_index[doc_index][term]
-        # print(sums)
+    # # normalize vector space
+    # for doc_index in tf_index:
+    #     d_resultant = 0
+    #     for term in tf_index[doc_index].keys():
+    #         d_resultant += np.square(tf_index[doc_index][term])
+    #     d_resultant = np.sqrt(d_resultant)
+    #     sums = 0
+    #     for term in tf_index[doc_index].keys():
+    #         tf_index[doc_index][term] = tf_index[doc_index][term] / d_resultant
+    #         sums += tf_index[doc_index][term]
+    #     # print(sums)
     return tf_index
 
 
