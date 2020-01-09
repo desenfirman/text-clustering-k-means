@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>{% block title %} {% endblock %} | K-Means News Clustering</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/dashboard.css') }}">
 
@@ -17,7 +17,7 @@
             <main class="col-md-9 ml-sm-auto col-lg-10 px-4 pt-5">
                 <br>
                 <div id="wrap">
-                    {% include 'pages/dashboard.html' %}
+                    {% block content %}{% endblock %}
                 </div>
             </main> 
         </div>
@@ -26,6 +26,7 @@
     <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.3.1.min.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/app.js') }}"></script>
+    {% block script %}{% endblock %}
 
 
 

@@ -1,0 +1,33 @@
+{% extends "default.html" %}
+{% block title %}Input Berita{% endblock %}
+{% block content %}
+    {{ header }}
+    <h1>
+        Input Berita
+    </h1>
+    {%- if submitted_message -%}
+        {{submitted_message}}
+    {% endif %}
+
+
+    
+    <form action="/input_berita" method="POST">
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">Judul Berita</span>
+            </div>
+            <input name="title" type="text" class="form-control" placeholder="Masukkan judul berita" aria-label="Judul Berita" aria-describedby="basic-addon1" required>
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlTextarea1">Isi berita</label>
+            <textarea name="content"  class="form-control" id="exampleFormControlTextarea1" rows="10" required></textarea>
+        </div>
+    
+        <input type="submit" class="btn btn-primary" placeholder="Submit data berita" value="Submit data berita" >
+        
+    </form>
+{% endblock %} 
+{% block script %}
+    {{ script }}
+{% endblock %}
+{{ a }}
